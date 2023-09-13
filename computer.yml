@@ -2,12 +2,12 @@ computer:
   cpu:
     cores: 8
     manufacturer: Intel
-    frequency: 9.6 GHz
+    frequency: 9.6
   memory:
     manufacturer: Samsung
-    size: 1GB
+    size: 000
     type: SRAM
   disk:
     manufacturer: SanDisk
-    size: large
+    size: 000
     type: SSD
