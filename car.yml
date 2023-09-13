@@ -1,7 +1,7 @@
 car:
   manufacturer: volvo
   model: V60
-  year: 1322
+  year: "1322"
   reg: ABC001
   attributes:
     - röd
