@@ -1,3 +1,11 @@
 person:
   name:
     first_name: Stig
+    last_name: Helmer
+  age: 1000
+  class: Paladin
+  start_year: 0000
+  hobbies:
+    - Raida
+    - Cyckla
+    - Vattna blommor
